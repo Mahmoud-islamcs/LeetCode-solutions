@@ -1,5 +1,4 @@
-# LeetCode-solutions
-Collection of my LeetCode problem solutions using C++, Python, and Java.
+
 # LeetCode-solutions
 
 🚀 This repository contains my personal solutions to coding problems from [LeetCode](https://leetcode.com/).
