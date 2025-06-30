@@ -18,6 +18,11 @@
 - Code may include comments and explanations.
 - I will keep updating as I solve more problems.
 
+  ### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-islamcs&show_icons=true&theme=tokyonight" />
+</p>
+
 ---
 
 **Let's improve together!** 🚀
